@@ -24,8 +24,9 @@ I trained in **Product Design Engineering at Loughborough**, and now I build wit
 | 🎹 | **Pro Tools (tiny)** | A browser DAW that records audio and MIDI from my Nord Stage 3. |
 | 🤖 | **Agent Hub** | A 3D model viewer built by four AI agents working together. |
 | ⛽ | **Find My Fuel** | Live map of UK fuel prices across ~7,000 stations, from the 14 official CMA feeds. [Try it →](https://petrol-prices-seven.vercel.app) |
+| 📊 | **Claude status line** | Context window and plan-limit meters for Claude Code, in one dependency-free file. Open source. [Code →](https://github.com/andreas-purse/claude-statusline) |
 
-<sub>My code lives in private repos for now. Happy to walk you through any of it.</sub>
+<sub>Most of my code lives in private repos for now. Happy to walk you through any of it.</sub>
 
 ## Toolbox
 
